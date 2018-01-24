@@ -5,7 +5,7 @@
   "main": "main.js",
   "dependencies": {
     "mail-notifier": "^0.4.1",
-    "nodemailer": "^4.4.0",
+    "nodemailer": "^4.4.0"
   },
   "devDependencies": {},
   "scripts": {
